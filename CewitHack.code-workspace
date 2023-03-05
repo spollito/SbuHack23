@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "HtmlCss"
+		}
+	],
+	"settings": {
+		"git.autoRepositoryDetection": true
+	}
+}
